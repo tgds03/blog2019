@@ -1,2 +1,2 @@
 tgds03 개인 블로그
-[Index](index.html)
+[Index](https://tgds03.github.io)
