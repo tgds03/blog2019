@@ -1,2 +1,2 @@
-# tgds03.github.io
-메모장
+tgds03 개인 블로그
+[Index](index.html)
